@@ -1,0 +1,10 @@
+{
+  "serverHost": "mc.iamrealikea.dev",
+  "serverPort": 25565,
+  "tunnelMode": "cloudflare",
+  "detectedMode": null,
+  "localTunnelHost": "127.0.0.1",
+  "localTunnelPort": 25565,
+  "statusChannelId": "883251419963093032",
+  "statusMessageId": "1562844068940091454"
+}
